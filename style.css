@@ -3,11 +3,12 @@ html {
   font-size: 16px;
 }
 body {
-  background: #e5e5e5;
-}
-.nav-font {
+  background: #ffffff;
   font-family: "Roboto", sans-serif;
 }
+/* .nav-font {
+  font-family: "Roboto", sans-serif;
+} */
 .header-text-1 {
   color: #fa804c;
   font-size: 3rem;
@@ -18,4 +19,30 @@ body {
 }
 .btn-color {
   background: linear-gradient(180deg, #3d4ff3 0%, #3543bc 100%);
+}
+.shoe-price {
+  color: #fa804c;
+  font-size: 36px;
+  font-weight: 900;
+}
+.buy-now-btn {
+  color: #ffffff;
+  border: none;
+}
+.fas-fa {
+  color: #ffffff;
+}
+.shoe-img-bg {
+  background: #f1f1f1;
+  border-radius: 20px;
+}
+h2 {
+  color: #363958;
+  font-weight: 700;
+}
+footer {
+  color: #3543bc;
+  font-weight: 800;
+  margin-top: 50px;
+  text-align: center;
 }
